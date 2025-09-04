@@ -1,0 +1,4 @@
+python3 classical/riemann_siegel.py
+python3 quantum/qft_numpy.py
+python3 quantum/qft_qiskit.py
+python3 hybrid/zeta_qft_pipeline.py
