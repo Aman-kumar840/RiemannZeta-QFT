@@ -14,7 +14,7 @@ RiemannZeta-QFT/
 
 The following circuit inspired the QFT implementation in this project:
 
-![QFT Circuit](docs/Circuit-for-Quantum-Fourier-Transform-QFT.png)
+![QFT Circuit](docs/QFTcicuit.png)
 
 
 ## 🔹 Results
